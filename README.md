@@ -15,6 +15,7 @@ ChunkFlow      -> RecallForge        -> PeiLian      -> ai-platform
 
 | Project | Positioning | What it shows |
 | --- | --- | --- |
+| [ai-backend-portfolio](https://github.com/hui-wang-lab/ai-backend-portfolio) | 完整作品集入口 | 作品索引、case study、架构图、能力映射和面试阅读路径 |
 | [ai-platform](https://github.com/hui-wang-lab/ai-platform) | 企业级 AI 能力平台 | 多服务边界、控制台、知识服务、数字员工、LLM Gateway 与平台化组织方式 |
 | [RecallForge](https://github.com/hui-wang-lab/RecallForge) | 企业级 RAG 知识服务 | 文档接入、检索、引用、权限隔离、可追溯与可评测的 RAG 链路 |
 | [ChunkFlow](https://github.com/hui-wang-lab/ChunkFlow) | 面向 RAG 的文档解析与切片服务 | 多解析器降级、文档类型识别、父子 chunk、质量诊断与执行链路 |
@@ -32,9 +33,10 @@ ChunkFlow      -> RecallForge        -> PeiLian      -> ai-platform
 
 ## Reading Path
 
-1. 先看 [ai-platform](https://github.com/hui-wang-lab/ai-platform)：理解整体 AI 平台边界。
-2. 再看 [RecallForge](https://github.com/hui-wang-lab/RecallForge) 与 [ChunkFlow](https://github.com/hui-wang-lab/ChunkFlow)：理解可信 RAG 链路。
-3. 最后看 [PeiLian](https://github.com/hui-wang-lab/PeiLian)：理解 AI 能力如何落到具体业务场景。
+1. 先看 [ai-backend-portfolio](https://github.com/hui-wang-lab/ai-backend-portfolio)：理解作品索引、能力映射和阅读路径。
+2. 再看 [ai-platform](https://github.com/hui-wang-lab/ai-platform)：理解整体 AI 平台边界。
+3. 继续看 [RecallForge](https://github.com/hui-wang-lab/RecallForge) 与 [ChunkFlow](https://github.com/hui-wang-lab/ChunkFlow)：理解可信 RAG 链路。
+4. 最后看 [PeiLian](https://github.com/hui-wang-lab/PeiLian)：理解 AI 能力如何落到具体业务场景。
 
 ## Notes
 
